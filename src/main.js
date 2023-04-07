@@ -5,6 +5,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 
 import router from "./router";
+import './assets/form.css'
 
 createApp(App).use(router).mount("#app");
 
